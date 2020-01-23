@@ -1,0 +1,16 @@
+var1 = 'hello world!'
+var2 = "python programing"
+var3 = ('''shreya''')
+print(var1)
+print(var2)
+print(var3)
+print("var1[0]",var1[0])
+print("var1[0:7]",var1[0:7])
+print("var2[1:5]",var2[1:5])
+print("var1[0]",var1[0])
+print("var1[0:7]",var1[0:7])
+print("var2[1:5]",var2[1:5])
+print("Updated String :-",var1[0:6]+'python')
+print("Updated String:-",var1[0:12]+'python')
+print("var1 "+ " "+ 'python')
+print(var1 +'python')
